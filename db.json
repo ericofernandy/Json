@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "C01",
+      "name": "Erico",
+      "email": "Erico@gmail.com",
+      "address": "Bekasi,Cikarang Selatan, Indonesia",
+      "gender": "male",
+      "phone": {
+        "mobile": "+62 353524255322",
+        "home": "08143243235",
+        "office": "0827576757652"
+      }
+    }
+  ]
+}
